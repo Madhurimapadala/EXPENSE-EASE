@@ -1,4 +1,4 @@
-HOW TO RUN
+*******************************************************************HOW TO RUN****************************************************************************************************
 After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
 There you’ll find a folder named “htdocs”.
 Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
